@@ -1,0 +1,1 @@
+{"total_cases":"<div class=\"maincounter-number\">\n        <span>22,340<\/span>\n    <\/div>","total_deaths":"<div class=\"maincounter-number\">\n        <span style=\"color:#aaa\">503,262        <\/span>\n\n    <\/div>","total_recovered":"<div class=\"maincounter-number\" style=\"color:#8ACA2B \">\n        <span>121,227<\/span>\n    <\/div>"}
